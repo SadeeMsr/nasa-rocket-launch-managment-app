@@ -7,7 +7,7 @@ https://nasa-rocket-launcher.herokuapp.com/
 # Nasa Rocket launcher
 This app was completely focesed on applying some advance Node Js backend concepts & application techniques.So, The purpose of the app was to -
 
-- Apply 👉🏻<mark>MVC</mark> pattern in the backend
+- Apply 👉🏻<i>MVC</i> pattern in the backend
 - Learn how to use JavaScript testing frame-works Like 👉🏻JEST
 - Learn how to use production process manager like 👉🏻PM2 for Node JS to make response faster
 - Learn basic github action for 👉🏻CI/CD

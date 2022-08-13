@@ -25,3 +25,22 @@ This app was completely focesed on applying some advance Node Js backend concept
 - It loads the possible habitable exo-planets in dropdown of the homepage by a search algorithm in backend.
 - Create Launch and save it to mongoDB database
 - Do the CRUD operations on those data in a very efficient way.
+
+
+## Installation
+
+Install my-project with npm. Clone or download the project. Open terminal with the project directory, then run these commands,
+
+```bash
+  npm run install-server
+  npm run install-client
+```
+Another terminal
+```bash
+  npm run server
+```
+ Another terminal
+```bash
+  npm run client
+```
+  

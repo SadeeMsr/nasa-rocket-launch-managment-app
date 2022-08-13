@@ -11,11 +11,11 @@ This app was completely focesed on applying some advance Node Js backend concept
 - Learn how to use JavaScript testing frame-works Like 👉🏻<b>JEST</b>
 - Learn how to use production process manager like 👉🏻<b>PM2</b> for Node JS to make response faster
 - Learn basic github action for 👉🏻<b>CI/CD</b>
-- Learn basics of 👉🏻<b>docker setups</b>. 
-- Use a cool react frame-work called 👉🏻<b>arwes</b>
+- Learn basics of 👉🏻<b>DOCKER setups</b>. 
+- Use a cool react frame-work called 👉🏻<b>ARWES</b>
 - Learn 👉🏻<b>Pagination</b> of large API data.
 - Use keplar exo-planet data & spacex API data to search possible habitable planets.
-- Apply basic <b>scripting</b> knowledge in Package.json for productions
+- Apply basic <b>Scripting</b> knowledge in Package.json for productions
 - Apply <b>mongoDB knowledge</b> more detailed.
 - Learn production level file structuring for Node JS apps.
 

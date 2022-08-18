@@ -7,17 +7,17 @@ https://nasa-rocket-launcher.herokuapp.com/
 # Nasa Rocket launcher
 This app was completely focesed on applying some advance Node Js backend concepts & application techniques.So, The purpose of the app was to -
 
-- Apply 👉🏻<b>MVC</b> pattern in the backend
-- Learn how to use JavaScript testing frame-works Like 👉🏻<b>JEST</b>
-- Learn how to use production process manager like 👉🏻<b>PM2</b> for Node JS to make response faster
-- Learn basic github action for 👉🏻<b>CI/CD</b>
-- Learn basics of 👉🏻<b>DOCKER setups</b>. 
-- Use a cool react frame-work called 👉🏻<b>ARWES</b>
-- Learn 👉🏻<b>Pagination</b> of large API data.
-- Use keplar exo-planet data & spacex API data to search possible habitable planets.
-- Apply basic <b>Scripting</b> knowledge in Package.json for productions
-- Apply <b>mongoDB knowledge</b> more detailed.
-- Learn production level file structuring for Node JS apps.
+- Applied 👉🏻<b>MVC</b> pattern in the backend
+- Learned how to use JavaScript testing frame-works Like 👉🏻<b>JEST</b>
+- Learned how to use production process manager like 👉🏻<b>PM2</b> for Node JS to make response faster
+- Learned basic github action for 👉🏻<b>CI/CD</b>
+- Learned basics of 👉🏻<b>DOCKER setups</b>. 
+- Used a cool react frame-work called 👉🏻<b>ARWES</b>
+- Learned 👉🏻<b>Pagination</b> of large API data.
+- Used keplar exo-planet data & spacex API data to search possible habitable planets.
+- Applied basic <b>Scripting</b> knowledge in Package.json for productions
+- Applied <b>mongoDB knowledge</b> more detailed.
+- Learned production level file structuring for Node JS apps.
 
 
 # What the application does?
